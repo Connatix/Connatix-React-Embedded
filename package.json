@@ -1,6 +1,6 @@
 {
   "name": "connatix-react-plugin",
-  "version": "1.0.0-alpha1",
+  "version": "1.0.0",
   "description": "React standalone component that incorporates some of the features of Connatix",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
